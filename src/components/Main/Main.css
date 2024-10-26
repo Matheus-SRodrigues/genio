@@ -1,0 +1,101 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: aladin-regular;
+  font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.Main span {
+  color: yellow;
+}
+.Main img {
+  width: 500px;
+  margin-left: 150px;
+}
+.Main button {
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  background-color: red;
+  color: yellow;
+}
+
+/*
+*
+*
+*
+*
+*******Configurações de responsividade*/
+@media (max-width: 425px) {
+  main {
+    padding: 2%;
+    gap: 0;
+    position: relative;
+  }
+  main img {
+    margin-right: 200px;
+    height: 90%;
+    position: relative;
+    bottom: 40px;
+  }
+  main button {
+    position: absolute;
+    bottom: 30px;
+    left: 150px;
+  }
+}
+@media (max-width: 728px) {
+  main {
+    padding: 2%;
+    gap: 0;
+    position: relative;
+  }
+  main h1 {
+    color: black;
+  }
+  main img {
+    margin-right: 200px;
+    height: 90%;
+    position: relative;
+    bottom: 40px;
+  }
+  main button {
+    position: absolute;
+    bottom: 30px;
+    left: 200px;
+    background-color: black;
+  }
+}
+@media (max-width: 1280px) {
+  main {
+    padding: 2%;
+    gap: 0;
+    position: relative;
+  }
+  main h1 {
+    color: ghostwhite;
+  }
+  main img {
+    margin-right: 200px;
+    height: 90%;
+    position: relative;
+    bottom: 40px;
+  }
+}/*# sourceMappingURL=Main.css.map */
