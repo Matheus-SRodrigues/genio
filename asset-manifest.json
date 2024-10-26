@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Matheus-SRodrigues/genio/static/css/main.9ce76c81.css",
-    "main.js": "/Matheus-SRodrigues/genio/static/js/main.2fc7b718.js",
-    "static/js/453.906cb2b2.chunk.js": "/Matheus-SRodrigues/genio/static/js/453.906cb2b2.chunk.js",
-    "static/media/castelo.png": "/Matheus-SRodrigues/genio/static/media/castelo.83a57b7f334a991c2d35.png",
-    "index.html": "/Matheus-SRodrigues/genio/index.html",
-    "main.9ce76c81.css.map": "/Matheus-SRodrigues/genio/static/css/main.9ce76c81.css.map",
-    "main.2fc7b718.js.map": "/Matheus-SRodrigues/genio/static/js/main.2fc7b718.js.map",
-    "453.906cb2b2.chunk.js.map": "/Matheus-SRodrigues/genio/static/js/453.906cb2b2.chunk.js.map"
+    "main.css": "/genio/static/css/main.a1aa42ff.css",
+    "main.js": "/genio/static/js/main.ecfd9831.js",
+    "static/js/453.906cb2b2.chunk.js": "/genio/static/js/453.906cb2b2.chunk.js",
+    "static/media/castelo.png": "/genio/static/media/castelo.83a57b7f334a991c2d35.png",
+    "index.html": "/genio/index.html",
+    "main.a1aa42ff.css.map": "/genio/static/css/main.a1aa42ff.css.map",
+    "main.ecfd9831.js.map": "/genio/static/js/main.ecfd9831.js.map",
+    "453.906cb2b2.chunk.js.map": "/genio/static/js/453.906cb2b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ce76c81.css",
-    "static/js/main.2fc7b718.js"
+    "static/css/main.a1aa42ff.css",
+    "static/js/main.ecfd9831.js"
   ]
 }
